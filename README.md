@@ -1,0 +1,2 @@
+# orekami
+scripts to practice
